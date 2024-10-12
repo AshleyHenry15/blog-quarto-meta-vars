@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "meta Vars for Precise Includes",
+    "section": "",
+    "text": "This is an example site to showcase the use of meta vars for precise includes using Quarto.\nFeatures showcased:\n\nmeta\nincludes"
+  },
+  {
+    "objectID": "new-york.html",
+    "href": "new-york.html",
+    "title": "New York",
+    "section": "",
+    "text": "New York covers approximately 54,555 making it the 27th largest state in the United States. As of 2023, New York has an approximate population of about 19.8 million.\nNew York’s official flower is the Rose, pictured below:\n\n\n\nThe official New York state flower, the Rose\n\n\nLastly, New York’s official animal is the Beaver, pictured below:\n\n\n\nThe official New York state animal, the Beaver"
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "`meta Vars` for Precise Includes",
+    "section": "",
+    "text": "the example"
+  },
+  {
+    "objectID": "pa.html",
+    "href": "pa.html",
+    "title": "Pennsylvania",
+    "section": "",
+    "text": "Pennsylvania covers approximately 46,055 making it the 33rd largest state in the United States. As of 2023, Pennsylvania has an approximate population of about 12.9 million.\nPennsylvania’s official flower is the Mountain Laurel, pictured below:\n\n\n\nThe official Pennsylvania state flower, the Mountain Laurel\n\n\nLastly, Pennsylvania’s official animal is the White-tailed Deer, pictured below:\n\n\n\nThe official Pennsylvania state animal, the White-tailed Deer"
+  }
+]
