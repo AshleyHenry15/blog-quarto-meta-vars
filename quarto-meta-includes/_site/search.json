@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "meta Vars for Precise Includes",
+    "title": "meta Shortcodes for Precise Includes",
     "section": "",
-    "text": "This is an example site to showcase the use of meta vars for precise includes using Quarto.\nFeatures showcased:\n\nmeta\nincludes"
+    "text": "This is an example site to showcase the use of meta shortcodes for more precise includes using Quarto.\nFeatures showcased:\n\nmeta\nincludes"
   },
   {
     "objectID": "new-york.html",
