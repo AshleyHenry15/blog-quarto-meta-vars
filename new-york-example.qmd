@@ -1,0 +1,11 @@
+---
+title: New York
+---
+
+{{< include _snippets/state-intro.qmd >}}
+
+New York has a geographical size of 54,555 making it the 27th largest state with an estimated population size of 19.8 million.
+
+The state's flower is the Rose, as shown below:
+
+![](images/ny/flower.png)

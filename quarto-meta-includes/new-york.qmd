@@ -4,8 +4,8 @@ state-abbr: ny
 state: New York
 size-rank: 27th
 square-miles: 54,555
-flower: Rose
 population: 19.8 million
+flower: Rose
 animal: Beaver
 ---
 
